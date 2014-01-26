@@ -1,0 +1,6 @@
+D:\Telerik\C# Part 2\04.NumeralSystems\Numberal System Homework\NumeralSystems\08.ShortToBinary\bin\Debug\08.ShortToBinary.exe.config
+D:\Telerik\C# Part 2\04.NumeralSystems\Numberal System Homework\NumeralSystems\08.ShortToBinary\bin\Debug\08.ShortToBinary.exe
+D:\Telerik\C# Part 2\04.NumeralSystems\Numberal System Homework\NumeralSystems\08.ShortToBinary\bin\Debug\08.ShortToBinary.pdb
+D:\Telerik\C# Part 2\04.NumeralSystems\Numberal System Homework\NumeralSystems\08.ShortToBinary\obj\Debug\08.ShortToBinary.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\04.NumeralSystems\Numberal System Homework\NumeralSystems\08.ShortToBinary\obj\Debug\08.ShortToBinary.exe
+D:\Telerik\C# Part 2\04.NumeralSystems\Numberal System Homework\NumeralSystems\08.ShortToBinary\obj\Debug\08.ShortToBinary.pdb

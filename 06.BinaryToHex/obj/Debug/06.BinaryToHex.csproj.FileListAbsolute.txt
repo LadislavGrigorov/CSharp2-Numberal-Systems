@@ -1,0 +1,6 @@
+D:\Telerik\C# Part 2\04.NumeralSystems\Numberal System Homework\NumeralSystems\06.BinaryToHex\bin\Debug\06.BinaryToHex.exe.config
+D:\Telerik\C# Part 2\04.NumeralSystems\Numberal System Homework\NumeralSystems\06.BinaryToHex\bin\Debug\06.BinaryToHex.exe
+D:\Telerik\C# Part 2\04.NumeralSystems\Numberal System Homework\NumeralSystems\06.BinaryToHex\bin\Debug\06.BinaryToHex.pdb
+D:\Telerik\C# Part 2\04.NumeralSystems\Numberal System Homework\NumeralSystems\06.BinaryToHex\obj\Debug\06.BinaryToHex.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\04.NumeralSystems\Numberal System Homework\NumeralSystems\06.BinaryToHex\obj\Debug\06.BinaryToHex.exe
+D:\Telerik\C# Part 2\04.NumeralSystems\Numberal System Homework\NumeralSystems\06.BinaryToHex\obj\Debug\06.BinaryToHex.pdb

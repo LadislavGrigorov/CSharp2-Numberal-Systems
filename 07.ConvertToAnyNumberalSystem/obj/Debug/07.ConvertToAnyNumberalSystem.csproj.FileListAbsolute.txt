@@ -1,0 +1,6 @@
+D:\Telerik\C# Part 2\04.NumeralSystems\Numberal System Homework\NumeralSystems\07.ConvertToAnyNumberalSystem\bin\Debug\07.ConvertToAnyNumberalSystem.exe.config
+D:\Telerik\C# Part 2\04.NumeralSystems\Numberal System Homework\NumeralSystems\07.ConvertToAnyNumberalSystem\bin\Debug\07.ConvertToAnyNumberalSystem.exe
+D:\Telerik\C# Part 2\04.NumeralSystems\Numberal System Homework\NumeralSystems\07.ConvertToAnyNumberalSystem\bin\Debug\07.ConvertToAnyNumberalSystem.pdb
+D:\Telerik\C# Part 2\04.NumeralSystems\Numberal System Homework\NumeralSystems\07.ConvertToAnyNumberalSystem\obj\Debug\07.ConvertToAnyNumberalSystem.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\04.NumeralSystems\Numberal System Homework\NumeralSystems\07.ConvertToAnyNumberalSystem\obj\Debug\07.ConvertToAnyNumberalSystem.exe
+D:\Telerik\C# Part 2\04.NumeralSystems\Numberal System Homework\NumeralSystems\07.ConvertToAnyNumberalSystem\obj\Debug\07.ConvertToAnyNumberalSystem.pdb
